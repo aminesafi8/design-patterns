@@ -14,5 +14,9 @@ public class TestAbstractFactory {
         Computer macbook = ComputerFactory.getComputer(new MacbookFactory("16 GB", "1 TB", "2.9 GHz"));
         log.info("Factory Imac Config :: [{}]", iMac);
         log.info("Factory Macbook Config :: [{}]", macbook);
+
+
+        Computer laptop = ComputerFactory.getComputer(new LaptopFactory("50 GB", "2 TB", "2.9 GHz"));
+        log.info("Factory Laptop Config :: [{}]", laptop);
     }
 }
