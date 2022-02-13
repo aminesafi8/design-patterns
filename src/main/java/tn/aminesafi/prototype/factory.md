@@ -1,0 +1,1 @@
+https://www.journaldev.com/1440/prototype-design-pattern-in-java
