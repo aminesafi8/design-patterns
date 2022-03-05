@@ -1,4 +1,4 @@
-package tn.aminesafi.creational.factory;
+package tn.aminesafi.creational.factory.example1;
 
 public interface Computer {
 
