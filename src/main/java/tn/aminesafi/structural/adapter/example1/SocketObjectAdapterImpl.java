@@ -1,4 +1,4 @@
-package tn.aminesafi.structural.adapter;
+package tn.aminesafi.structural.adapter.example1;
 
 //Using Composition for adapter pattern
 
