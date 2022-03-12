@@ -1,0 +1,1 @@
+https://www.journaldev.com/1572/proxy-design-pattern
